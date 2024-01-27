@@ -22,7 +22,7 @@ I use computational methods and bioinformatics to study automatize processed and
 
 **Institute of Chemistry, UNAM** \| [Armando Hernández-García's Lab](https://sites.google.com/iquimica.unam.mx/armandohernandezgarcia/bienvenidos?authuser=0) \| Undergraduate researcher \| June 2023 - Present
 
-**Institute of Biotechnology, UNAM** | [Lorenzo Patrick Segovia-Forcella Lab](https://www.ibt.unam.mx/agrupacion/direccion-22/departamento-de-ingenieria-celular-y-biocatalisis-48/grupo-del-dr-lorenzo-segovia-12) \| Undergraduate researcher \| January 2023 - Present
+**Institute of Biotechnology, UNAM** \| [Lorenzo Patrick Segovia-Forcella Lab](https://www.ibt.unam.mx/agrupacion/direccion-22/departamento-de-ingenieria-celular-y-biocatalisis-48/grupo-del-dr-lorenzo-segovia-12) \| Undergraduate researcher \| January 2023 - Present
 
 ## My intellectual communities
 I'm a multitask person, integrating disciplines like computer science bioinformatics and wet lab techniques. In terms of academic specialities, I spend a lot of time in the fields of processes automatization, data analysis and I'm keen on network theory applied to systems biology. I often use more probabilistic and statistical forms of analysis data and then support them with experimental data. I'm also into a wide range of topics like regeneration, cancer cell activation markers and Alzheimer's immune response cell markers. 
