@@ -13,7 +13,7 @@ redirect_from:
 Hi! I'm Bernardo, an undergraduate student in the Genomic Sciences B.S. programme at the [Center for Genome Sciences](https://www.ccg.unam.mx/en/), National Autonomous University of Mexico ([UNAM](https://www.unam.mx/)). My research and my education are all grounded in the idea that the study and understanding of neurodevelopmental genomics is capable of generating a positive impact and improving people's quality of life.
 
 ## My background and history
-When I was in highschool I received the second place in the area of Health Sciences, Field Research modality, Local category in the XXIX University Contest, UNAM's Science Fair. Later on, I got accepted in the Genomic Sciences B.S. programme in which I currently am. In the last two years, I have had the opportunity to get involved in metagenomics, bionanotechnology, protein engineering and neuroimmunology research lines.
+When I was in highschool I received the second place in the area of Health Sciences, Field Research modality, Local category in the XXIX University Contest, UNAM's Science Fair. Then, after finishing high school, I got enrolled in the Biology B.S. programme at the Sciences Faculty, UNAM for one year. Later on, I got accepted in the Genomic Sciences B.S. programme in which I currently am. In the last two years, I have had the opportunity to get involved in metagenomics, bionanotechnology, protein engineering and neuroimmunology research lines.
 
 ## My research experience
 I use computational methods and bioinformatics to study automatize processed and analyze experimental data.
