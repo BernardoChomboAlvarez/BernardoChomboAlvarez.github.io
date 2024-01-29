@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Bernardo Chombo-Álvarez"
 title_separator          : "-"
-name                     : &name "Bernardo Chombo-ÁLvarez"
+name                     : &name "Bernardo Chombo-Álvarez"
 description              : &description "personal description"
 url                      : https://BernardoChomboAlvarez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
