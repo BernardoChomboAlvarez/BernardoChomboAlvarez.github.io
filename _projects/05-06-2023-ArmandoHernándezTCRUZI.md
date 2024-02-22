@@ -11,5 +11,5 @@ Design and assessment of LAMP primers and sgRNAs for CRISPR-Cas12a detection for
 
 This project aims to develop a genetic detection system for *Trypanosoma cruzi* (Chagas disease) through CRISPR-Cas12a machinery. My work consisted in the assessment of the designed LAMP primers for the samples amplification as well as the assessment of the sgRNAs for the CRISPR-Cas12a detection. For this project I have developed miscelaneous Python programs for this project, these can be found with the **Miscelaneous** tag inside this page.
 
-- Project page
-- Project repository
+- Project's page
+- Project's GitHub repository
