@@ -1,7 +1,7 @@
 ---
-title: "CCTP-783: Qualitative Data Analysis (Fall 2009)"
+title: "Metabolic Modules derived from PULs from the Pacific's Ocean sediment"
 collection: projects
-project_type: "Undergraduate research project"
+project_type: "Metagenomics"
 permalink: /projects/puls-diversity-2022/ 
 institution: "Institute of Biotechnology"
 date: 2022-01-08
