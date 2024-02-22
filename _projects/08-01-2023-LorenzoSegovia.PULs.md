@@ -4,7 +4,7 @@ collection: projects
 project_type: "Metagenomics"
 permalink: /projects/puls-diversity-2022/ 
 institution: "Institute of Biotechnology"
-date: 2022-01-08
+date: 2023-01-08
 excerpt: "<i>Rsearch project, Undergraduate researcher</i><br/>
 Study and characterization of diverse PULs inside the beta-diversity of the Pacific's Ocean sediment to obtain metabolic modules by identified taxonomic families."
 ---
