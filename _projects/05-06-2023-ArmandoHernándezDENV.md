@@ -5,7 +5,7 @@ project_type: "Proteomics"
 permalink: /projects/bionano-denv-2023/ 
 institution: "Institute of Chemistry"
 date: 2023-06-05
-excerpt: "<i>Rsearch project, Undergraduate researcher</i><br/>
+excerpt: "<i>Research project, Undergraduate researcher</i><br/>
 Design and assessment of LAMP primers and sgRNAs for CRISPR-Cas12a detection for the four Dengue virus (DENV) serotypes."
 ---
 

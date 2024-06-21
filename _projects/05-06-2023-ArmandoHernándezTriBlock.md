@@ -5,7 +5,7 @@ project_type: "Proteomics"
 permalink: /projects/bionano-denv-2023/ 
 institution: "Institute of Chemistry"
 date: 2023-06-05
-excerpt: "<i>Rsearch project, Undergraduate researcher</i><br/>
+excerpt: "<i>Research project, Undergraduate researcher</i><br/>
 Production of C-S-B Virus-like Proteins for targeted-delivery therapeutic RNA to breast cancer cells."
 ---
 
